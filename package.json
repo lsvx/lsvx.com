@@ -10,7 +10,7 @@
     "lsvx"
   ],
   "author": "lsvx",
-  "license": "BSD",
+  "license": "MIT",
   "dependencies": {
     "acatiris": "^0.1.0",
     "express": "^4.11.2"
